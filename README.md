@@ -2,7 +2,7 @@
 
 ## [My public profile](https://coderbyte.com/profile/flambok)
 
-This is a repo containing my algorithmic solutions for Coding Game (https://coderbyte.com) problems 
+This is a repo containing my algorithmic solutions for Codee Byte (https://coderbyte.com) problems 
 
 By Amine M. Boulouma [@aminemboulouma]
 
